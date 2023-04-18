@@ -2,8 +2,7 @@
 This readme helps you output RTSP stream to a virtual webcam device using FFmpeg. Once you've completed the steps in the document, you can use your preferred video conferencing software to stream the video feed from the camera without granting direct access to the RTSP feed. This can be useful for situations where you want to show outside spaces to friends or family without giving them direct access to the camera's feed.
 
 ## Warning
-Please note that this script is for informational purposes only and should be used in compliance with all applicable laws and regulations, and in good faith.
-
+Please note that this document is for informational purposes only and should be used in compliance with all applicable laws and regulations, and in good faith. You, alone, are responsible for the consequences of your actions and inactions.
 
 ## Install Motion
 

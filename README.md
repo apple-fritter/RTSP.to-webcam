@@ -66,3 +66,7 @@ ffmpeg -i http://localhost:8081 -pix_fmt yuv420p -f v4l2 /dev/video0
 This command tells FFmpeg to capture the video stream from Motion and output it to the virtual webcam device `/dev/video0`. You can then select `/dev/video0` as your webcam input in your streaming app.
 
 Note: Make sure to customize the script by replacing `username` and `password` with your own credentials, and adjust the configuration settings as needed for your specific use case.
+
+## License
+
+This script is released under the [MIT License](LICENSE).

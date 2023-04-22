@@ -1,4 +1,4 @@
-# rtsp-surveillance_streambox on Ubuntu
+# rtsp-to-webcam
 This readme helps you output RTSP stream to a virtual webcam device using FFmpeg. Once you've completed the steps in the document, you can use your preferred video conferencing software to stream the video feed from the camera without granting direct access to the RTSP feed. This can be useful for situations where you want to show outside spaces to friends or family without giving them direct access to the camera's feed.
 
 ## Warning
